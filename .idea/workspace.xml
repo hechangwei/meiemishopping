@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9832584-734d-42bd-892a-504fa636d13a" name="Default" comment="第二次测试提交&#10;&#10;Signed-off-by: hechangwei &lt;357134645@qq.com&gt;">
+    <list default="true" id="d9832584-734d-42bd-892a-504fa636d13a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/plat-parent/plat-service-8001/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/zuul-gateway-9527/src/main/resources/bootstrap.yml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/plat-parent/plat-service-8001/pom.xml" afterPath="$PROJECT_DIR$/plat-parent/plat-service-8001/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/plat-parent/plat-service-8001/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/plat-parent/plat-service-8001/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/zuul-gateway-9527/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/zuul-gateway-9527/src/main/resources/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/plat-parent/plat-interface/target/" />
     <ignored path="$PROJECT_DIR$/basic-parent/basic-util/target/" />
@@ -34,18 +38,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -61,6 +54,10 @@
       <list>
         <option value="$PROJECT_DIR$/plat-parent/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/plat-parent/plat-service-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/plat-parent/plat-service-8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/plat-parent/plat-service-8001/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/zuul-gateway-9527/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -117,46 +114,6 @@
               <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meiemishopping" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meiemishopping" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-service-7001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meiemishopping" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-service-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meiemishopping" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-service-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meiemishopping" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-service-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meiemishopping" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-service-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="shopping" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meiemishopping" type="462c0819:PsiDirectoryNode" />
-              <item name="plat-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -168,12 +125,18 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="E:/课程/DAY108 爱购商城day02/code/aigou-parent" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA文件\meimeishopping\meiemishopping\zuul-gateway-9527\src\main\resources" />
+      <recent name="E:\IDEA文件\meimeishopping\meiemishopping\plat-parent\plat-service-8001\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,6 +199,12 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="PlatServiceApplication_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.meimei.shoopping.PlatServiceApplication_8001" />
+      <module name="plat-service-8001" />
+      <envs />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -285,7 +254,7 @@
       <updated>1548767383235</updated>
       <workItem from="1548767386523" duration="276000" />
       <workItem from="1548767796246" duration="104000" />
-      <workItem from="1548767922871" duration="1250000" />
+      <workItem from="1548767922871" duration="2065000" />
     </task>
     <task id="LOCAL-00001" summary="第二次测试提交">
       <created>1548767450349</created>
@@ -322,11 +291,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548767962795</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第二次测试提交&#10;&#10;Signed-off-by: hechangwei &lt;357134645@qq.com&gt;">
+      <created>1548769181301</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548769181301</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1630000" />
+    <option name="totallyTimeSpent" value="2445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -376,7 +352,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二次测试提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次测试提交" />
+    <MESSAGE value="第二次测试提交&#10;&#10;Signed-off-by: hechangwei &lt;357134645@qq.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次测试提交&#10;&#10;Signed-off-by: hechangwei &lt;357134645@qq.com&gt;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -415,9 +392,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/plat-parent/plat-service-8001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat-parent/plat-service-8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-gateway-9527/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-gateway-9527/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat-parent/plat-service-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
+        <state relative-caret-position="459">
           <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
           <folding />
         </state>
